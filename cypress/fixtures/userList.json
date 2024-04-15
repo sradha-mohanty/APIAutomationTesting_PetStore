@@ -1,0 +1,42 @@
+[
+{
+  "id": 1234,
+  "username": "Steve1234",
+  "firstName": "Steve",
+  "lastName": "Joseph",
+  "email": "steve.joseph@gmail.com",
+  "password": "Steve1234",
+  "phone": "999988881",
+  "userStatus": 1
+},
+{
+  "id": 12345,
+  "username": "John12345",
+  "firstName": "John",
+  "lastName": "Joseph",
+  "email": "John.joseph@gmail.com",
+  "password": "John12345",
+  "phone": "999988882",
+  "userStatus": 1
+},
+{
+  "id": 123456,
+  "username": "Kerry123456",
+  "firstName": "Kerry",
+  "lastName": "Joseph",
+  "email": "Kerry.joseph@gmail.com",
+  "password": "Kerry123456",
+  "phone": "999988883",
+  "userStatus": 1
+},
+{
+  "id": 1234567,
+  "username": "Rosy1234567",
+  "firstName": "Rosy",
+  "lastName": "Joseph",
+  "email": "Rosy.joseph@gmail.com",
+  "password": "Rosy1234567",
+  "phone": "999988884",
+  "userStatus": 1
+}
+]
