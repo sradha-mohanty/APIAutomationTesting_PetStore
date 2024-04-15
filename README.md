@@ -1,5 +1,8 @@
 # cypress-api-test-PetStoreAPI#
-* Here `Store and User API` are automated using cypress with e2e and negative scenarios 
+* Here `Store and User API` are automated using cypress with e2e and negative scenarios
+# To Clone the Repository
+ * Run the below command in cmd:
+ * git clone `https://github.com/sradha-mohanty/APIAutomationTesting_PetStore.git`
 # Installation
 * `npm init -y` and `npm install cypress --save-dev` to install dependencies
 # Run
